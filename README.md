@@ -1,1 +1,1 @@
-![image](https://github.com/breadlicia/breadlicia/blob/master/falling-bread-bread.gif)
+![image](https://raw.githubusercontent.com/breadlicia/breadlicia/main/falling-bread-bread.gif)
